@@ -36,6 +36,15 @@ This project is a **Login and Registration System** built using **React.js** for
 └─ package.json          
 ```
 
+## Project Overview
+ - Signup page
+  https://github.com/Rajput-vinay/quatumIt/blob/main/frontend/src/assets/signuppage.jpg?raw=true
+
+ -Sigin Page
+ https://github.com/Rajput-vinay/quatumIt/blob/main/frontend/src/assets/sigin.jpg?raw=true 
+
+ - user page
+ https://github.com/Rajput-vinay/quatumIt/blob/main/frontend/src/assets/user.jpg?raw=true
 ## Installation
 ### Prerequisites
 - Node.js
